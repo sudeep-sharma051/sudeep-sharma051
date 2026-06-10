@@ -1,22 +1,12 @@
-# Hi, I'm Sudeep Sharma 👋
+# Hey there 👋
 
-🎓 Aspiring Software Engineer & Cybersecurity Enthusiast
-🌍 Based in Nepal
-💻 Passionate about Programming, Cybersecurity, AI, and Technology
-📚 Preparing for my Bachelor's degree in Computer Science
-🚀 Currently learning Python, Web Development, and Git/GitHub
-
----
-
-## 🚀 About Me
-
-I'm a student who enjoys building projects, solving problems, and continuously learning new technologies. My goal is to become a skilled software engineer and cybersecurity professional.
+I'm a Sudeep, a student who enjoys building projects, solving problems, and continuously learning new technologies. My goal is to become a skilled software engineer.
 
 I use GitHub to document my learning journey, showcase projects, and collaborate with other developers.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Tools & Tech
 
 * Python
 * HTML
@@ -24,38 +14,16 @@ I use GitHub to document my learning journey, showcase projects, and collaborate
 * JavaScript
 * Git & GitHub
 * Linux
-* Cybersecurity Fundamentals
 
 ---
 
-## 📈 Current Goals
+## Connect With Me
 
-* Build real-world software projects
-* Learn advanced Python development
-* Improve cybersecurity skills
-* Contribute to open-source projects
-* Develop strong problem-solving abilities
+* LinkedIn: https://www.linkedin.com/in/sudeep-sharma-46614233b/
+* Email: sudeepsharma051@gmail.com
 
 ---
 
-## 🌱 Currently Learning
-
-* Data Structures & Algorithms
-* Web Development
-* Networking Basics
-* Cybersecurity
-* Artificial Intelligence
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: Add your LinkedIn profile here
-* Email: Add your professional email here
-
----
-
-### ⚡ Fun Fact
+### Fun Fact
 
 I enjoy playing chess, exploring new technologies, and learning how systems work behind the scenes.
