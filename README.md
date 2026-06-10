@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Sudeep Sharma 👋
 
-<!--
-**sudeep-sharma051/sudeep-sharma051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Software Engineer & Cybersecurity Enthusiast
+🌍 Based in Nepal
+💻 Passionate about Programming, Cybersecurity, AI, and Technology
+📚 Preparing for my Bachelor's degree in Computer Science
+🚀 Currently learning Python, Web Development, and Git/GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a student who enjoys building projects, solving problems, and continuously learning new technologies. My goal is to become a skilled software engineer and cybersecurity professional.
+
+I use GitHub to document my learning journey, showcase projects, and collaborate with other developers.
+
+---
+
+## 🛠️ Technologies & Tools
+
+* Python
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+* Linux
+* Cybersecurity Fundamentals
+
+---
+
+## 📈 Current Goals
+
+* Build real-world software projects
+* Learn advanced Python development
+* Improve cybersecurity skills
+* Contribute to open-source projects
+* Develop strong problem-solving abilities
+
+---
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Web Development
+* Networking Basics
+* Cybersecurity
+* Artificial Intelligence
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* LinkedIn: Add your LinkedIn profile here
+* Email: Add your professional email here
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy playing chess, exploring new technologies, and learning how systems work behind the scenes.
