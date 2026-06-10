@@ -1,6 +1,8 @@
 # Hey there 👋
 
-I'm a Sudeep, a student who enjoys building projects, solving problems, and continuously learning new technologies. My goal is to become a skilled software engineer.
+I'm a Sudeep, a student who enjoys building projects, solving problems, and continuously learning new technologies. 
+
+My goal is to become a skilled software engineer.
 
 I use GitHub to document my learning journey, showcase projects, and collaborate with other developers.
 
